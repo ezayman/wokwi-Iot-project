@@ -115,4 +115,4 @@ while True:
     previous_motion = motion
 
     # Local sensor sampling
-    time.sleep(3)
+    time.sleep(2)
